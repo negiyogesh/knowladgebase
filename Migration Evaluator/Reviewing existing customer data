@@ -1,0 +1,10 @@
+**What To look for when you receive data:**
+1. Are there multiple sheet? Does the scope make sense across all sheets? How many servers are there?
+2. Do we have the provisioning of all servers?
+3. Is there usage data?
+4. Do the values make sanse (For example, is it MB or GB)? Are there duplicates?
+5. What environment do these servers belong to?
+6. Are any of these machines running Microsoft SQL?
+
+
+
